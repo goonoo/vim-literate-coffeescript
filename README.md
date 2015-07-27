@@ -1,3 +1,5 @@
+This repo is mirror for [mintplant's vim-literate-coffeescript](https://github.com/mintplant/vim-literate-coffeescript).
+
 `vim-literate-coffeescript` adds syntax highlighting and indentation support for
 [Literate CoffeeScript](http://coffeescript.org/#literate) to the vim text
 editor.
@@ -19,7 +21,7 @@ this package.
 
  1. Clone this repository.
 
-        git clone https://github.com/mintplant/vim-literate-coffeescript.git
+        git clone https://github.com/mctenshi/vim-literate-coffeescript.git
 
  2. Copy all the vim-specific files into your ~/.vim folder.
 
@@ -39,7 +41,7 @@ this package.
 
  3. Clone this repository.
 
-         git clone https://github.com/mintplant/vim-literate-coffeescript.git
+         git clone https://github.com/mctenshi/vim-literate-coffeescript.git
 
 ### Updating
 
